@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/laudos/precache-manifest.0cb73fb9f398234b143f93c83d0c24b6.js"
+  "/laudos/precache-manifest.adbf790fe1fa999733cd746d650bc01a.js"
 );
 
 self.addEventListener('message', (event) => {

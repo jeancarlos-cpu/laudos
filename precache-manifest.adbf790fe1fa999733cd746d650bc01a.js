@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "946ffc6f507670e7feee9b1218b48b20",
+    "revision": "b86e363dd91bf5338f5c8dd14d0f2cc9",
     "url": "/laudos/index.html"
   },
   {
-    "revision": "c54af490ef5da02568b8",
+    "revision": "f21662adb121ac2ac7e4",
     "url": "/laudos/static/css/main.b100e6da.chunk.css"
   },
   {
-    "revision": "3e3b7983c43df8562b71",
-    "url": "/laudos/static/js/2.5c0d84cb.chunk.js"
+    "revision": "562ede162e5e561e7c23",
+    "url": "/laudos/static/js/2.2fda2f3a.chunk.js"
   },
   {
-    "revision": "c54af490ef5da02568b8",
-    "url": "/laudos/static/js/main.056955b4.chunk.js"
+    "revision": "f21662adb121ac2ac7e4",
+    "url": "/laudos/static/js/main.07fbd60f.chunk.js"
   },
   {
     "revision": "8be2521f13474f24aa4b",
